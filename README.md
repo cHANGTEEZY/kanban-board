@@ -1,3 +1,6 @@
+# DEPLOYED PROJECT LINK 
+https://kanban-board-e8srodpuh-changteezys-projects.vercel.app/
+
 # SETUP INSTRUCTIONS
 
 ## 1. Clone the Repo
